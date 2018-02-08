@@ -170,8 +170,9 @@ const movieFunc = (movie) => {
             Language : ${parsedBody.Language}
             Plot : ${parsedBody.Plot}
             Actors : ${parsedBody.Actors}`);
+            log(parsedBody);
         }
-			log(parsedBody);
+			
 						
 		});
 }
@@ -213,12 +214,15 @@ const userInput = (command, arg) => {
         getCommands();
         break;
 
-        case undefined:
-        case '':
-        console.log('What was that?');
+        // case undefined:
+        // case '':
+        // console.log('What was that?');
 
         default:
-        console.log('I dont know what you are trying to say...  Please input a proper command!');
+        console.log(`Here is the list of commands I understand...
+        * To get the latest 20 tweets: my-tweets 
+        * To get song information from spotify: spotify-this-song
+        * To get movie information from OMDB: movie-this`);
 
     }
 }
