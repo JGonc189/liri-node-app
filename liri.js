@@ -9,8 +9,18 @@ const Spotify = require('node-spotify-api');
 const request = require('request');
 const fs = require('fs');
 
-let arg = '';
-arg = process.argv[3];
+let firstCommand = process.argv[2];
+let secondCommand = '';
+
+for (let i = 3; i < process.argv.length; i++) {
+  if (i > 2 && i < process.argv.length) {
+    secondCommand = secondCommand + process.argv[i];
+  } 
+  else {
+    secondCommand += process.argv[i];
+  }
+}
+
 
 // log user data
 const log = (data) => {
@@ -104,7 +114,7 @@ const spotifyFunc = (song) => {
     const spotify = new Spotify(keys.spotify);
     spotify.search({
         type: 'track',
-        query: 'track:' + song,
+        query: song,
         limit: 20
     }).then((response) => {
         // console.log(response); -- for debugging
@@ -192,8 +202,8 @@ const getCommands = () => {
 };
 
 // grab user input 
-const userInput = (command, arg) => {
-    switch(command) {
+const userInput = (firstCommand, secondCommand) => {
+    switch(firstCommand) {
         //get tweets
         case 'my-tweets':
         twitterFunc();
@@ -201,12 +211,12 @@ const userInput = (command, arg) => {
 
         // get spotify
         case 'spotify-this-song':
-        spotifyFunc();
+        spotifyFunc(secondCommand);
         break;
 
         // get omdb
         case 'movie-this':
-        movieFunc();
+        movieFunc(secondCommand);
         break;
 
         // do what it says
@@ -227,5 +237,5 @@ const userInput = (command, arg) => {
     }
 }
 
-userInput(process.argv[2], arg);
+userInput(firstCommand, secondCommand);
 
