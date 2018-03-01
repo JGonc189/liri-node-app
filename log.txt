@@ -1,0 +1,128 @@
+--------------- 
+        " ** Feb / 14 / 2018 @ 4:46am **\n                @Jake_Casey1 @CodeNewbies @freeCodeCamp Thank you !! I'm very excited to dive deeper Into node and looking at all t… https://t.co/wwhrVu39Gi "
+        ------------------------------ 
+        " ** Feb / 23 / 2018 @ 6:43am **\n                #day11 of #100DaysOfCode now that I have a bit more knowledge under my belt I decided to re-do my portfolio!  Sketc… https://t.co/JSarLhMk8B "
+        ------------------------------ 
+        " ** Feb / 14 / 2018 @ 4:24am **\n                #day10 of my #100DaysOfCode  I'm building a hangman game for the command line using #NodeJS  I'll be using the inqu… https://t.co/qU8JNBLVSr "
+        ------------------------------ 
+        " ** Feb / 10 / 2018 @ 3:29am **\n                ☕️ #day9 of #100DaysOfCode  getting my feet wet with some #NodeJS  working on a command line app for a homework ass… https://t.co/m2zVkRT1Xe "
+        ------------------------------ 
+        " ** Feb / 10 / 2018 @ 3:21am **\n                @DPGCM88 @StackOverflow @_100DaysOfCode @CodeNewbies @freeCodeCamp I have no idea where i'd be without it! "
+        ------------------------------ 
+        " ** Feb / 10 / 2018 @ 3:21am **\n                I need this mug in my life https://t.co/Z9UaliEZhT "
+        ------------------------------ 
+        " ** Feb / 08 / 2018 @ 2:02am **\n                #day8 of #100DaysOfCode spent a few hours today debugging an issue with my ajax call. I kept getting a CORS issue,… https://t.co/PUqD2d5mn0 "
+        ------------------------------ 
+        " ** Feb / 07 / 2018 @ 5:10am **\n                #day7 of my #100DaysOfCode doing an awesome homework assignment for school using the @GIPHY api.\n#ajax calls are in… https://t.co/9D1C2BIfKZ "
+        ------------------------------ 
+        " ** Feb / 05 / 2018 @ 10:54pm **\n                #day6 going back into #javascript.  I've been busy the past 2 weeks with school and work and parental duties.  So..… https://t.co/C8ebx6IZnX "
+        ------------------------------ 
+        " ** Jan / 20 / 2018 @ 12:21am **\n                #day5 Diving deeper with functions in #JavaScript for my #100DaysOfCode\n#CodeNewbie\n@freeCodeCamp @CodeNewbies https://t.co/0wZW63Sk9h "
+        ------------------------------ 
+        " ** Jan / 19 / 2018 @ 4:43am **\n                Practicing some js by coding up a simple hangman game. #100DaysOfCode #day4 #javascript #html #css #webdeveloper… https://t.co/a6wCybkAVQ "
+        ------------------------------ 
+        " ** Jan / 16 / 2018 @ 3:04am **\n                #day3 of #100DaysOfCode  I had to figure out how to revert in #git.  There was a slight group project issue this we… https://t.co/Cjr18IBoTV "
+        ------------------------------ 
+        " ** Jan / 13 / 2018 @ 1:58am **\n                So this is how my Friday night is going.   #100DaysOfCode  #day2 #codenewbie #javascript https://t.co/QKKXtug5kK "
+        ------------------------------ 
+        " ** Jan / 11 / 2018 @ 9:05pm **\n                Starting my #100DaysOfCode  this is day 1, Homework assignment for my bootcamp. #CodeNewbie  #javascript #webdev https://t.co/0mdy4KlTMa "
+        ------------------------------ 
+        " ** Jan / 11 / 2018 @ 8:53pm **\n                @wruiz8891 💯 "
+        ------------------------------ 
+        " ** Oct / 31 / 2017 @ 3:48am **\n                @thenetninjauk @TutsPlusCode @TutsPlusCode ...really? I lost all respect for you. "
+        ------------------------------ 
+        " ** Oct / 24 / 2017 @ 6:08pm **\n                😂😂 #LAMP #CodeNewbie https://t.co/WXszuJEO2n "
+        ------------------------------ 
+        " ** Oct / 24 / 2017 @ 8:46am **\n                @RadaWilinofsky @CodeNewbies You're right, I should! 🤓😴😴 "
+        ------------------------------ 
+        " ** Oct / 24 / 2017 @ 8:04am **\n                Up at 4am working on the Portfolio Page! 😁  #javascript #webdev  #hustle #CodeNewbie @CodeNewbies "
+        ------------------------------ 
+        " ** Oct / 20 / 2017 @ 7:15am **\n                @acbilimoria @_30days30sites Fcc is great! I also took cs50x and read you don't know JavaScript (free on github). T… https://t.co/S1KHP6WPRZ "
+        ------------------------------ 
+        " ** Feb / 23 / 2018 @ 6:43am **\n                #day11 of #100DaysOfCode now that I have a bit more knowledge under my belt I decided to re-do my portfolio!  Sketc… https://t.co/JSarLhMk8B "
+        ------------------------------ 
+        " ** Feb / 14 / 2018 @ 4:46am **\n                @Jake_Casey1 @CodeNewbies @freeCodeCamp Thank you !! I'm very excited to dive deeper Into node and looking at all t… https://t.co/wwhrVu39Gi "
+        ------------------------------ 
+        " ** Feb / 10 / 2018 @ 3:29am **\n                ☕️ #day9 of #100DaysOfCode  getting my feet wet with some #NodeJS  working on a command line app for a homework ass… https://t.co/m2zVkRT1Xe "
+        ------------------------------ 
+        " ** Feb / 14 / 2018 @ 4:24am **\n                #day10 of my #100DaysOfCode  I'm building a hangman game for the command line using #NodeJS  I'll be using the inqu… https://t.co/qU8JNBLVSr "
+        ------------------------------ 
+        " ** Feb / 10 / 2018 @ 3:21am **\n                I need this mug in my life https://t.co/Z9UaliEZhT "
+        ------------------------------ 
+        " ** Feb / 10 / 2018 @ 3:21am **\n                @DPGCM88 @StackOverflow @_100DaysOfCode @CodeNewbies @freeCodeCamp I have no idea where i'd be without it! "
+        ------------------------------ 
+        " ** Feb / 07 / 2018 @ 5:10am **\n                #day7 of my #100DaysOfCode doing an awesome homework assignment for school using the @GIPHY api.\n#ajax calls are in… https://t.co/9D1C2BIfKZ "
+        ------------------------------ 
+        " ** Feb / 05 / 2018 @ 10:54pm **\n                #day6 going back into #javascript.  I've been busy the past 2 weeks with school and work and parental duties.  So..… https://t.co/C8ebx6IZnX "
+        ------------------------------ 
+        " ** Jan / 20 / 2018 @ 12:21am **\n                #day5 Diving deeper with functions in #JavaScript for my #100DaysOfCode\n#CodeNewbie\n@freeCodeCamp @CodeNewbies https://t.co/0wZW63Sk9h "
+        ------------------------------ 
+        " ** Jan / 19 / 2018 @ 4:43am **\n                Practicing some js by coding up a simple hangman game. #100DaysOfCode #day4 #javascript #html #css #webdeveloper… https://t.co/a6wCybkAVQ "
+        ------------------------------ 
+        " ** Jan / 16 / 2018 @ 3:04am **\n                #day3 of #100DaysOfCode  I had to figure out how to revert in #git.  There was a slight group project issue this we… https://t.co/Cjr18IBoTV "
+        ------------------------------ 
+        " ** Feb / 08 / 2018 @ 2:02am **\n                #day8 of #100DaysOfCode spent a few hours today debugging an issue with my ajax call. I kept getting a CORS issue,… https://t.co/PUqD2d5mn0 "
+        ------------------------------ 
+        " ** Jan / 13 / 2018 @ 1:58am **\n                So this is how my Friday night is going.   #100DaysOfCode  #day2 #codenewbie #javascript https://t.co/QKKXtug5kK "
+        ------------------------------ 
+        " ** Jan / 11 / 2018 @ 9:05pm **\n                Starting my #100DaysOfCode  this is day 1, Homework assignment for my bootcamp. #CodeNewbie  #javascript #webdev https://t.co/0mdy4KlTMa "
+        ------------------------------ 
+        " ** Oct / 31 / 2017 @ 3:48am **\n                @thenetninjauk @TutsPlusCode @TutsPlusCode ...really? I lost all respect for you. "
+        ------------------------------ 
+        " ** Oct / 24 / 2017 @ 6:08pm **\n                😂😂 #LAMP #CodeNewbie https://t.co/WXszuJEO2n "
+        ------------------------------ 
+        " ** Oct / 24 / 2017 @ 8:46am **\n                @RadaWilinofsky @CodeNewbies You're right, I should! 🤓😴😴 "
+        ------------------------------ 
+        " ** Oct / 24 / 2017 @ 8:04am **\n                Up at 4am working on the Portfolio Page! 😁  #javascript #webdev  #hustle #CodeNewbie @CodeNewbies "
+        ------------------------------ 
+        " ** Oct / 20 / 2017 @ 7:15am **\n                @acbilimoria @_30days30sites Fcc is great! I also took cs50x and read you don't know JavaScript (free on github). T… https://t.co/S1KHP6WPRZ "
+        ------------------------------ 
+        " ** Jan / 11 / 2018 @ 8:53pm **\n                @wruiz8891 💯 "
+        ------------------------------ 
+        "The Sign"
+        ------------------------------ 
+        "The Sign (US Album) [Remastered]"
+        ------------------------------ 
+        "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=92e2075076874c79ba6c25e2fc176c28"
+        ------------------------------ 
+        {
+  "Title": "Titanic",
+  "Year": "1997",
+  "Rated": "PG-13",
+  "Released": "19 Dec 1997",
+  "Runtime": "194 min",
+  "Genre": "Drama, Romance",
+  "Director": "James Cameron",
+  "Writer": "James Cameron",
+  "Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+  "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+  "Language": "English, Swedish",
+  "Country": "USA",
+  "Awards": "Won 11 Oscars. Another 111 wins & 75 nominations.",
+  "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "7.8",
+  "imdbVotes": "879,510",
+  "imdbID": "tt0120338",
+  "Type": "movie",
+  "DVD": "10 Sep 2012",
+  "BoxOffice": "N/A",
+  "Production": "Paramount Pictures",
+  "Website": "http://www.titanicmovie.com/",
+  "Response": "True"
+}
+        ---------------
